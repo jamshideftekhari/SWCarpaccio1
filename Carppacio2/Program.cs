@@ -11,6 +11,7 @@ namespace Carppacio2
             //Read number of items and price – output total price whithout state tax
             // changing in visual studio
             
+            // add some tset test
             Console.WriteLine("Hello World!");
             Console.WriteLine("number of items");
             int number = Convert.ToInt16(Console.ReadLine());
