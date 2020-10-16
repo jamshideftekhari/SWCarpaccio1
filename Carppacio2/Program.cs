@@ -9,7 +9,7 @@ namespace Carppacio2
             // make hello word console app .net core output helloworld
             //Read number of items and output number of items
             //Read number of items and price – output total price whithout state tax
-            
+            // add some tset test
             Console.WriteLine("Hello World!");
             Console.WriteLine("number of items");
             int number = Convert.ToInt16(Console.ReadLine());
